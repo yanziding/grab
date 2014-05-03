@@ -1,5 +1,5 @@
 GrabHelp.version=1.0
-GrabHelp.path=grab/GrabHelp.zip
+GrabHelp.path=grab/GrabHelp.exe
 Grab.version=1.0
-Grab.path=grab/Grab.zip
+Grab.path=grab/Grab.exe
 GrabWeb.url=http://192.168.1.201:8080
